@@ -1,0 +1,21 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color: midnightblue;
+}
+div {
+  margin: 0;
+  padding: 80px 0;
+}
+p {
+  color: black;
+}
+h1 {
+  color: white;
+}
+li {
+  color: black;
+}
+h2 {
+  color: whitesmoke;
+}
